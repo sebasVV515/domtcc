@@ -6,3 +6,5 @@ if(true){
 }
 
 console.log(`hora ${nombre}`)
+
+console.log(`hola ${nombre}`)
