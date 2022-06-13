@@ -8,3 +8,4 @@ if(true){
 console.log(`hora ${nombre}`)
 
 console.log(`hola ${nombre}`)
+console.log(`adios ${nombre}`)
